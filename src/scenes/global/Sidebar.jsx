@@ -106,7 +106,7 @@ const Sidebar = () => {
                   Tesfa
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  VP ADMIN
+                  ADMIN
                 </Typography>
               </Box>
             </Box>
