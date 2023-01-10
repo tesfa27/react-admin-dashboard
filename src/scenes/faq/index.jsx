@@ -20,9 +20,7 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            dhjdjf fhjfdls aklsjfjlfdl fjdkf dk eurie l mcncla dfjkdieiel
-            eirulsa ele kd dudfhal eue dfjkfjl;al eieu fkd aleieeo klpefiu
-            aieura as
+            some text over here are djfkjfksk 
           </Typography>
         </AccordionDetails>
       </Accordion>
